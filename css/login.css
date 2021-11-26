@@ -4,7 +4,7 @@ footer{
     position: absolute;
     text-align: center;
     width: 100%;
-    background-color: #5348B5;
+    background-color: #ff8c00;
     padding-top: 10px;
     color: white;
     bottom: 0;
@@ -30,6 +30,6 @@ footer{
     border-radius:10em;
 }
 .btn-color{
-    background-color: #5348B5;
+    background-color: #ff8c00;
     color: white;
 }
